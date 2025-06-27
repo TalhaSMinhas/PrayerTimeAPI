@@ -1,0 +1,21 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+.venv/
+
+# Environment variables
+.env
+
+# Test reports
+htmlcov/
+.coverage
+.cache/
+
+# PyCharm stuff
+.idea/
+
+# OS files
+.DS_Store
