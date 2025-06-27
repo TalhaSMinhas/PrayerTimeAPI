@@ -15,3 +15,5 @@ def get_hijri_date():
     formatted_hijri_date = f"{hijri_date.day} {hijri_date.month_name('en')} {hijri_date.year} AH"
 
     return formatted_hijri_date
+
+#triggering test and workflows
