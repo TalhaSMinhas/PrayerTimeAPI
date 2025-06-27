@@ -2,6 +2,7 @@
 
 [![Python](https://img.shields.io/badge/python-3.9%20|%203.10%20|%203.11-blue.svg)](https://www.python.org/)
 [![Tests](https://img.shields.io/badge/tests-passing-brightgreen.svg)](https://pytest.org)
+[![CI](https://github.com/TalhaSMinhas/PrayerTimeAPI/actions/workflows/tests.yml/badge.svg)](https://github.com/TalhaSMinhas/PrayerTimeAPI/actions)
 
 > Hijri date converter & prayer time API (in progress).
 
