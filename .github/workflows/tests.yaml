@@ -31,8 +31,9 @@ jobs:
         PYTHONPATH=src pytest --cov=src --cov-report=xml
 
     - name: Upload coverage to Codecov
-      uses: codecov/codecov-action@v3
+      uses: codecov/codecov-action@v5
       with:
+        token: ${{ secrets.CODECOV_TOKEN }}
         file: coverage.xml
         flags: unittests
         fail_ci_if_error: true
