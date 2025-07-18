@@ -3,5 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="Python 3.9 (PrayerTimeAPI)" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.9 (FastAPIProject)" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (PrayerTimeAPI)" project-jdk-type="Python SDK" />
 </project>
